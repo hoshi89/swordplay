@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{AE501C83-A115-4A5B-CE1B-EEEA28B5BF03}") = "swordplay", "Assembly-CSharp-firstpass.csproj", "{12380AF5-90B5-D12C-5B53-392720CD42D4}"
 EndProject
+Project("{AE501C83-A115-4A5B-CE1B-EEEA28B5BF03}") = "swordplay", "Assembly-CSharp.csproj", "{9494ECBF-0E06-6F58-5085-D1E3E454F99F}"
+EndProject
 Project("{AE501C83-A115-4A5B-CE1B-EEEA28B5BF03}") = "swordplay", "Assembly-CSharp-Editor-firstpass.csproj", "{D1A25573-C06F-14CD-DFC1-E49178518B2E}"
 EndProject
 Global
@@ -15,6 +17,10 @@ Global
 		{12380AF5-90B5-D12C-5B53-392720CD42D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12380AF5-90B5-D12C-5B53-392720CD42D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12380AF5-90B5-D12C-5B53-392720CD42D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9494ECBF-0E06-6F58-5085-D1E3E454F99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9494ECBF-0E06-6F58-5085-D1E3E454F99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9494ECBF-0E06-6F58-5085-D1E3E454F99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9494ECBF-0E06-6F58-5085-D1E3E454F99F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D1A25573-C06F-14CD-DFC1-E49178518B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D1A25573-C06F-14CD-DFC1-E49178518B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1A25573-C06F-14CD-DFC1-E49178518B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
